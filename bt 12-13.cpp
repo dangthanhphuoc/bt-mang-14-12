@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 int main (){
-	int arr [4];
+	int arr [5];
 	for (int i=0;i<=4;i++){
 		cout << "Nhap cac phan tu cua mang arr ["<< i<<"]: ";
 		cin >> arr [i] ;
 	}
 	// so chan lon nhat trong mang
-	int  max_chan=-100000;
+	int  max_chan=arr[0];
 	for (int i=0;i<=4;i++){
 		if (arr[i]%2==0&arr[i]>max_chan){			
 			max_chan=arr[i];
