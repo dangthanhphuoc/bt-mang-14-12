@@ -1,0 +1,25 @@
+1. Tao 1 mang co 10 phan tu.
+2. Nhap cac gia tri vao mang
+3. Xuat cac gia tri do ra man hinh
+4. Dao nguoc mang
+5. Tinh tong mang
+6. Xuat cac phan tu so chan cua mang
+7. Xuat cac phan tu so le cua mang
+8. Tinh tong cac phan tu so chan
+9. Tinh tong cac phan tu so le
+10. Tim phan tu lon nhat cua mang
+11. Tim phan tu be nhat cua mang
+12. Tim phan tu so chan, so le lon nhat
+13. Tim phan tu so chan, so le be nhat
+14. Tim so phan tu lon nhat cua mang
+15. Tim so phan tu so chan, so le lon nhat cua mang
+16. Tim so phan tu so chan, so le be nhat cua mang
+17. Tim vi tri cua phan tu lon nhat
+18. Tim vi tri cua phan tu so chan lon nhat
+19. Tim vi tri cua phan tu so le lon nhat
+20. Tim vi tri cua phan tu so chan be nhat
+21. Tim vi tri cua phan tu so chan lon nhat
+22. Sap xep mang theo chieu tang dan
+23. Sap xep mang theo chieu giam dan 
+24. Xuat ra cac so nguyen to trong mang
+25. Tim vi tri cac so nguyen to trong mang
